@@ -1,32 +1,4 @@
-<h1 align="center">
-  <br>
-  Embiggen Your Eyes
-  <br>
-</h1>
-
-<h4 align="center">An interactive astronomy platform built for the NASA Space Apps Challenge 2025, making astronomical imagery more accessible and engaging.
-</h4>
-
-<div align="center">
-</div>
-
-<p align="center">
-  <a href="#live-demo">Live Demo</a> •
-  <a href="#features">Features</a> •
-  <a href="#how-to-use-locally">How To Use Locally</a> •
-  <a href="#technology">Technology</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
-</p>
-
-![screenshot](public/screenshots1.png)
-<br>
-<br>
-![screenshot](public/screenshots2.png)
-<br>
-<br>
-![screenshot](public/screenshots3.png)
-
+ 
 ## Live Demo
 
 Check out the live version of **Embiggen Your Eyes** and start exploring space imagery instantly:
