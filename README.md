@@ -68,8 +68,6 @@ This software uses the following open-source projects:
 
 > This project uses NASA’s open data but is **not endorsed or certified by NASA**.
 
----
-
-## License
+ 
 
 MIT
